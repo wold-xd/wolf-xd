@@ -16,7 +16,7 @@
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <br />
 
 <!-- Optional if you have blogs -->
@@ -25,5 +25,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- This section you create this variables that are used above -->
-[website]: https://google.com
+[website]: https://www.facebook.com/739981027/posts/1925223191319598/?substory_index=1925223191319598&mibextid=rS40aB7S9Ucbxw6v
 [facebook]: https://www.facebook.com/739981027/posts/1925223191319598/?substory_index=1925223191319598&mibextid=rS40aB7S9Ucbxw6v
