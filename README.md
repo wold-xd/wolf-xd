@@ -1,21 +1,30 @@
-# WOLF
+### Hi, I'm Anonymous <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
-![WOLF Logo](path/to/logo.png)
+## Your short description
+- 🔭 I’m currently working on - ❔❔❔❔
+- 🌱 I’m currently learning - ❔❔❔❔
+- 👯 I’m looking to collaborate with - ❔❔❔❔
+- 💬 Ask me about - ❔❔❔❔
+- 🥅 2020 Goal - ❔❔❔❔
+- ⚡ Fun fact - ❔❔❔❔
 
-WOLF is a powerful and versatile Python script designed for interacting with Facebook's API. It enables users to manage Facebook accounts, post comments, and perform various actions using Facebook cookies and user-agent strings. 
+<!-- ❔❔❔❔ means username in below README.md -->
+<!-- Also feel free to update second URL to any URL -->
+[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=❔❔❔❔&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-## Features
+## Connect with me:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
 
-- **Login with Facebook Cookies:** Log in using your Facebook cookies for seamless authentication without needing to input email and password every time.
-- **Post Comments:** Automatically comment on Facebook posts using active cookies.
-- **UID and Friend Extraction:** Extract UIDs and Facebook names of friends from public UIDs using access tokens.
-- **Random User-Agent Generator:** Generate diverse user-agent strings with various Android versions and device builds for better performance and compatibility.
-- **Comment on Multiple IDs:** Optionally input a list of OKIDs and comment on them with a specified limit of comments per ID.
+<!-- Optional if you have blogs -->
+## Latest blog posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-## Installation
-
-To get started with WOLF, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/wolf.git
+<!-- This section you create this variables that are used above -->
+[website]: https://google.com
+[facebook]: https://www.facebook.com/739981027/posts/1925223191319598/?substory_index=1925223191319598&mibextid=rS40aB7S9Ucbxw6v
+[linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
